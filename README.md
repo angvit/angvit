@@ -6,6 +6,4 @@
 </h4>
 
 ###
-<p align="left">
-  <a href="https://www.linkedin.com/in/angelo-vitalino" target="_blank">LinkedIn:</a> Angelo Vitalino
-</p>
+<p align="left">LinkedIn: <a href="https://www.linkedin.com/in/angelo-vitalino" target="_blank">linkedin.com/in/angelo-vitalino</a> </p>
