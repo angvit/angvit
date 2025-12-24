@@ -2,7 +2,7 @@
 
 ###
 <h4 align="center">
-  Backend Software Engineer interested in data-intensive systems and applied ai. Currently building <a href="https://csphere.io" target="_blank">Csphere</a>. 
+  Backend Software Engineer interested in data-intensive systems and applied AI/ML. Currently building <a href="https://csphere.io" target="_blank">Csphere</a>. 
 </h4>
 
 ###
