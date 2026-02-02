@@ -2,7 +2,7 @@
 
 ###
 <h4 align="center">
-  Software Engineer interested in application development and applied AI/ML. Currently building <a href="https://csphere.io" target="_blank">Csphere</a>. 
+  Software Engineer interested in application development around applied AI/ML. Created and architected <a href="https://csphere.io" target="_blank">Csphere</a>. Self-studying deep learning.  
 </h4>
 
 ###
